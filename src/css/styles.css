@@ -1,0 +1,16 @@
+header h1 {
+    position: static;
+}
+
+#aside{
+    position: fixed;
+}
+
+aside h4 {
+    border: 1px solid black;
+}
+
+#outer {
+    position: static;
+    margin-left: 15em;
+}
